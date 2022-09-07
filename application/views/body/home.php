@@ -69,28 +69,27 @@
       </header>
       <div class="row">
         <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
-          <div class="box"> <img src="<?= base_url() ?>assets/img/services1.jpg" class="img-fluid" alt="">
-            <h3>Freight
-              Charter</h3>
+          <div class="box"> <img src="<?= base_url() ?>assets/img/djs_1.png" class="img-fluid" alt="">
+            <h3>Ship Chartering and Managing</h3>
             <!-- <p>Eum ad dolor et. Autem aut fugiat debitis voluptatem consequuntur sit. Et veritatis id.</p> -->
           </div>
         </div>
         <div class="col-lg-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="400">
-          <div class="box"> <img src="<?= base_url() ?>assets/img/services2.jpg" class="img-fluid" alt="">
-            <h3>Trading</h3>
+          <div class="box"> <img src="<?= base_url() ?>assets/img/djs_2.png" class="img-fluid" alt="">
+            <h3>Ship Equipment Supply & Repairing</h3>
             <!-- <p>Repudiandae amet nihil natus in distinctio suscipit id. Doloremque ducimus ea sit non.</p> -->
           </div>
         </div>
       </div>
       <div class="row">
         <div class="col-lg-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="600">
-          <div class="box"> <img src="<?= base_url() ?>assets/img/services3.jpg" class="img-fluid" alt="">
+          <div class="box"> <img src="<?= base_url() ?>assets/img/djs_3.png" class="img-fluid" alt="">
             <h3>Shipping Agency</h3>
           </div>
         </div>
         <div class="col-lg-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="600">
-          <div class="box"> <img src="<?= base_url() ?>assets/img/services3.jpg" class="img-fluid" alt="">
-            <h3>TugAssist Services</h3>
+          <div class="box"> <img src="<?= base_url() ?>assets/img/djs_4.png" class="img-fluid" alt="">
+            <h3>Others Assist Tug and Harbour Tug</h3>
           </div>
         </div>
       </div>
@@ -847,7 +846,20 @@ Gresik,Surabaya and Jakarta</p>
       <div class="row gy-4">
         <div class="col-lg-6">
           <div class="row gy-4">
+           
             <div class="col-md-6">
+              <div class="info-box"> <i class="bi bi-telephone"></i>
+                <h3>Call Us</h3>
+                <p>Telp 0811-9008-1222</p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="info-box"> <i class="bi bi-envelope"></i>
+                <h3>Email Us</h3>
+                <p>marketing@djsshipping.co.id</p>
+              </div>
+            </div>
+            <div class="col-md-12">
               <div class="info-box"> <i class="bi bi-geo-alt"></i>
                 <h3>Address</h3>
                 <p>Head Office:
@@ -858,22 +870,42 @@ Gresik,Surabaya and Jakarta</p>
                 </p>
               </div>
             </div>
-            <div class="col-md-6">
-              <div class="info-box"> <i class="bi bi-telephone"></i>
-                <h3>Call Us</h3>
-                <p>Telp +6221 5221244</p>
-              </div>
-            </div>
-            <div class="col-md-6">
-              <div class="info-box"> <i class="bi bi-envelope"></i>
-                <h3>Email Us</h3>
-                <p>marketing@djsshipping.co.id</p>
-              </div>
-            </div>
-            <div class="col-md-6">
+            <!-- <div class="col-md-6">
               <div class="info-box"> <i class="bi bi-clock"></i>
                 <h3>Open Hours</h3>
                 <p>Monday - Friday<br>9:00AM - 05:00PM</p>
+              </div>
+            </div> -->
+          </div>
+          <div class="row gy-4 mt-2">
+            <div class="col-md-6">
+              <div class="info-box"> <i class="bi bi-geo-alt"></i>
+                <h3>Site Office</h3>
+                <p>One Place Building 2nd floor <br>Jl.Jend. Sudirman No.1 Gresik,<br>East of java, Indonesia</b>
+                </p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="info-box"> <i class="bi bi-geo-alt"></i>
+                <h3>Site Office</h3>
+                <p>Gedong Cilegon Damai <br> Blok C.39 No.8-A, Katimbang, <br>Cibeber,Cilegon,Banten
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="row gy-4 mt-2">
+            <div class="col-md-6">
+              <div class="info-box"> <i class="bi bi-geo-alt"></i>
+                <h3>Address</h3>
+                <p>JL.Residen Abdul Rozak <br>Komplek Grand Pondok Indah No.06 <br>Kalidoni Palembang,South of sumatera</b>
+                </p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="info-box"> <i class="bi bi-geo-alt"></i>
+                <h3>Address</h3>
+                <p>Pantai Ratu indah, Jl.Lumba-lumba, <br>Blok-B No.18, Pelabuhanratu, Sukabumi,West Java,Indonesia
+                </p>
               </div>
             </div>
           </div>
