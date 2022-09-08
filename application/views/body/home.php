@@ -25,7 +25,7 @@
             <h3>Visi</h3>
             <p>To be one on the leading shipping company in Indonesia, with quality management system and qualified personnels in the field marine engineering and shipping business. Always innovating, competitive, effectiveness, dicipline, effort, loyalty, reliable, and efficient to our customers.</p>
             <h3>Misi</h3>
-            <p> Always keeping up with the dynamic development of national shipping industry, the company continues to develop its service type_and coverage toward Ship Management, Ship Agency, Stevedoring, Ship Brokering and Marine Engineering, as a form integated service.</p>
+            <p> Always keeping up with the dynamic development of national shipping industry, the company continues to develop its service type and coverage toward Ship Management, Ship Agency, Stevedoring, Ship Brokering and Marine Engineering, as a form integated service.</p>
           </div>
         </div>
         <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200"> <img

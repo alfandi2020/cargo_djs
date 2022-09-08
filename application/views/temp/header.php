@@ -98,7 +98,7 @@ function range_excel($start = 'A', $end = 'ZZ'){
 <body>
   <header id="header" class="header fixed-top">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between"> <a href="<?= base_url() ?>"
-        class="logo d-flex align-items-center"> <img src="<?= base_url() ?>assets/img/logo_djs.png" alt=""> </a>
+        class="logo d-flex align-items-center"> <img src="<?= base_url() ?>assets/img/logo_djss.jpeg" alt=""> </a>
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
