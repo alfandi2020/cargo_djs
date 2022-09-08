@@ -12,7 +12,7 @@
         </div>
       </div>
       <div class="col-lg-6 hero-img" data-aos="zoom-out" data-aos-delay="200"> <img
-          src="<?= base_url() ?>assets/img/djs1.png" style="width:150%" alt=""></div>
+          src="<?= base_url() ?>assets/img/djs3.png" style="width:120%" alt=""></div>
     </div>
   </div>
 </section>
