@@ -17,27 +17,22 @@
   </div>
 </section>
 <main id="main">
-  <!-- <section id="about" class="about">
+  <section id="about" class="about">
     <div class="container" data-aos="fade-up">
       <div class="row gx-0">
         <div class="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
           <div class="content">
             <h3>Visi</h3>
-            <h2>Menjadi perusahaan Freight Forwarding dengan kualitas dan mutu pelayanan yang terbaik</h2>
+            <p>To be one on the leading shipping company in Indonesia, with quality management system and qualified personnels in the field marine engineering and shipping business. Always innovating, competitive, effectiveness, dicipline, effort, loyalty, reliable, and efficient to our customers.</p>
             <h3>Misi</h3>
-            <p> Menyediakan jasa Freight Forwarding dengan mutu pelayanan yang baik.
-              Melayani tepat waktu dengan jaminan keamanan dalam pengiriman barang.
-              Mengembangkan jalur distribusi yang efisien dan efektif.
-              Menyediakan layanan one stop service untuk memudahkan bisnis klien kami.
-              Memiliki sarana dan prasarana yang mendukung seperti: gudang yang luas dan sistematis pelayanan yang
-              terpadu..</p>
+            <p> Always keeping up with the dynamic development of national shipping industry, the company continues to develop its service type_and coverage toward Ship Management, Ship Agency, Stevedoring, Ship Brokering and Marine Engineering, as a form integated service.</p>
           </div>
         </div>
         <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200"> <img
-            src="<?= base_url() ?>assets/img/visimisi.jpg" class="img-fluid" alt=""></div>
+            src="<?= base_url() ?>assets/img/djs_7.png" class="img-fluid" alt=""></div>
       </div>
     </div>
-  </section> -->
+  </section>
   <!-- <section id="about2" class="about">
     <div class="container" data-aos="fade-up">
       <div class="row gx-0">
@@ -235,18 +230,13 @@
           <div class="col-lg-6"> <img src="<?= base_url() ?>assets/img/features-2.png" class="img-fluid" alt=""></div>
         </div> -->
       <div class="row feature-icons" data-aos="fade-up">
-        <h3>Trading Ship Equipment</h3>
+        <h3>Ship Equipment Supply & Repairing</h3>
         <div class="row">
           <div class="col-xl-4 text-center" data-aos="fade-right" data-aos-delay="100"> <img
-              src="<?= base_url() ?>assets/img/djs2.png" class="img-fluid p-4" alt=""></div>
+              src="<?= base_url() ?>assets/img/djs_5.png" class="img-fluid p-4" alt=""></div>
           <div class="col-xl-8 d-flex content">
             <div class="row align-self-center gy-4">
-              <p>OUR VISION to become the first shipping company for the special service with providing shipping
-                servicein Indonesia innovate,competitive effective,discipline,effort,loyalty and reliable and always
-                a profesional service to customers. And for supporting our customers we will provide the customer
-                satisfaction
-                services with Quality Management System by personels was expereinced adn expert in field Marine
-                engineering and Shipping business</p>
+              <p>Aiming to provide the best possible services to its new and existing clients, we supplies spare parts for all the Principals it represents. In addition, we are able to offer high-quality genuine and OEM products for every type of engine equipment and repairs</p>
               <!-- <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500"> <i class="ri-radar-line"></i>
                   <div>
                     <h4>Explicabo consectetur</h4>
@@ -258,13 +248,18 @@
         </div>
       </div>
       <div class="row feature-icons" data-aos="fade-up">
-        <h3>Freight Chapter</h3>
+        <h3>Ship Chartering and Managing</h3>
         <div class="row">
           <div class="col-xl-4 d-flex content">
             <div class="row align-self-center gy-4">
-              <p>Tanker Cap. 3,700MT Carrying Cargo
-From Asike Jayapurato Bontang,Panjang,
-Gresik,Surabaya and Jakarta</p>
+              <p>Motor Tanker capacity 3,700MT carrying Crude Palm Oil from Asike to Bontang,
+            Panjang, Gresik dan Surabaya,
+            Also mobilizations B30 in South of Kalimantan area</p>
+            <p>
+            We Managed 10 (ten) set 300 feet capacity 7,500MT and 1 (one) unit SPB capacity 10,000MT
+            Supported PT. PLN Shipment from Palembang to PLTU Pelabuhan Ratu and Shipment from Tarahan to PLTU Teluk Sirih,
+            Labuhan Angin and Pangkalan Susu
+            </p>
               <!-- <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500"> <i class="ri-radar-line"></i>
                   <div>
                     <h4>Explicabo consectetur</h4>
@@ -274,7 +269,27 @@ Gresik,Surabaya and Jakarta</p>
             </div>
           </div>
           <div class="col-xl-8 text-center" data-aos="fade-right" data-aos-delay="100"> <img
-              src="<?= base_url() ?>assets/img/djs3.png" class="img-fluid p-4" alt="">
+              src="<?= base_url() ?>assets/img/djs1.png" class="img-fluid p-4" alt="">
+          </div>
+        </div>
+      </div>
+      <div class="row feature-icons" data-aos="fade-up">
+        <h3>Ship Equipment Supply & Repairing</h3>
+        <div class="row">
+          <div class="col-xl-4 text-center" data-aos="fade-right" data-aos-delay="100"> <img
+              src="<?= base_url() ?>assets/img/djs_6.png" class="img-fluid p-4" alt=""></div>
+          <div class="col-xl-8 d-flex content">
+            <div class="row align-self-center gy-4">
+              <p>We fully responsible for the ship's interest
+when the ship is in port and to carry out any arragement as required by the shipping lines,
+Ship-Owners and Ship-Masters</p>
+              <!-- <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500"> <i class="ri-radar-line"></i>
+                  <div>
+                    <h4>Explicabo consectetur</h4>
+                    <p>Est autem dicta beatae suscipit. Sint veritatis et sit quasi ab aut inventore</p>
+                  </div>
+                </div> -->
+            </div>
           </div>
         </div>
       </div>
