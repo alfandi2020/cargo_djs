@@ -22,10 +22,10 @@
       <div class="row gx-0">
         <div class="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
           <div class="content">
-            <h3>Visi</h3>
-            <p>To be one on the leading shipping company in Indonesia, with quality management system and qualified personnels in the field marine engineering and shipping business. Always innovating, competitive, effectiveness, dicipline, effort, loyalty, reliable, and efficient to our customers.</p>
-            <h3>Misi</h3>
-            <p> Always keeping up with the dynamic development of national shipping industry, the company continues to develop its service type and coverage toward Ship Management, Ship Agency, Stevedoring, Ship Brokering and Marine Engineering, as a form integated service.</p>
+            <h3>Vision</h3>
+            <p>To be one on the leading shipping company in Indonesia, with quality management system and qualified personnels in the field marine engineering and shipping business. Always innovative, competitive, effectiveness, dicipline, effort, loyalty, reliable, and efficient to our customers.</p>
+            <h3>Mision</h3>
+            <p> Always keeping up with the dynamic development of national shipping industry, the company continues to develop its service type and coverage toward Ship Management, Ship Agency, Stevedoring, Ship Brokering and Marine Engineering, as a form integated services.</p>
           </div>
         </div>
         <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200"> <img
@@ -236,7 +236,7 @@
               src="<?= base_url() ?>assets/img/djs_5.png" class="img-fluid p-4" alt=""></div>
           <div class="col-xl-8 d-flex content">
             <div class="row align-self-center gy-4">
-              <p>Aiming to provide the best possible services to its new and existing clients, we supplies spare parts for all the Principals it represents. In addition, we are able to offer high-quality genuine and OEM products for every type of engine equipment and repairs</p>
+              <p>Aiming to provide the best possible services to its new and existing Clients, we supplies spare parts for all the Principals it represents. In addition, we are able to offer high-quality genuine and OEM products for every type of engine equipment and repairs</p>
               <!-- <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500"> <i class="ri-radar-line"></i>
                   <div>
                     <h4>Explicabo consectetur</h4>
@@ -253,7 +253,7 @@
           <div class="col-xl-4 d-flex content">
             <div class="row align-self-center gy-4">
               <p>Motor Tanker capacity 3,700MT carrying Crude Palm Oil from Asike to Bontang,
-            Panjang, Gresik dan Surabaya,
+            Panjang, Gresik and Surabaya,
             Also mobilizations B30 in South of Kalimantan area</p>
             <p>
             We Managed 10 (ten) set 300 feet capacity 7,500MT and 1 (one) unit SPB capacity 10,000MT
@@ -281,7 +281,7 @@
           <div class="col-xl-8 d-flex content">
             <div class="row align-self-center gy-4">
               <p>We fully responsible for the ship's interest
-when the ship is in port and to carry out any arragement as required by the shipping lines,
+when the ship is in port and to carry out any arrangement as required by the shipping lines,
 Ship-Owners and Ship-Masters</p>
               <!-- <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500"> <i class="ri-radar-line"></i>
                   <div>
