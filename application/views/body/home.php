@@ -25,9 +25,9 @@
         <div class="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
           <div class="content">
             <h3>Vision</h3>
-            <p>To be one on the leading shipping company in Indonesia, with quality management system and qualified personnels in the field marine engineering and shipping business. Always innovative, competitive, effectiveness, dicipline, effort, loyalty, reliable, and efficient to our customers.</p>
+            <p style="text-align:justify !important;">To be one on the leading shipping company in Indonesia, with quality management system and qualified personnels in the field marine engineering and shipping business. Always innovative, competitive, effectiveness, dicipline, effort, loyalty, reliable, and efficient to our customers.</p>
             <h3>Mision</h3>
-            <p> Always keeping up with the dynamic development of national shipping industry, the company continues to develop its service type and coverage toward Ship Management, Ship Agency, Stevedoring, Ship Brokering and Marine Engineering, as a form integrated services.</p>
+            <p style="text-align:justify !important;"> Always keeping up with the dynamic development of national shipping industry, the company continues to develop its service type and coverage toward Ship Management, Ship Agency, Stevedoring, Ship Brokering and Marine Engineering, as a form integrated services.</p>
           </div>
         </div>
         <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200"> <img
@@ -45,7 +45,7 @@
         <div class="col-lg-6 d-flex justify-content-center" data-aos="fade-up" data-aos-delay="200">
           <div class="content">
             <h3>Sekilas Tentang MIT-E</h3>
-            <p> PT Mitra Elang Niaga Indonesia (MIT-E) didirikan pada tahun 2019 di Jakarta. MIT-E merupakan perusahaan
+            <p style="text-align:justify !important;"> PT Mitra Elang Niaga Indonesia (MIT-E) didirikan pada tahun 2019 di Jakarta. MIT-E merupakan perusahaan
               jasa pengiriman barang (Freight Forwarder), yang didukung dengan fasilitas Warehousing dan juga Regulated
               Agent (RA).
               <br><br>
@@ -68,13 +68,13 @@
         <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
           <div class="box"> <img src="<?= base_url() ?>assets/img/djs_1.png" class="img-fluid" alt="">
             <h3>Ship Chartering and Managing</h3>
-            <!-- <p>Eum ad dolor et. Autem aut fugiat debitis voluptatem consequuntur sit. Et veritatis id.</p> -->
+            <!-- <p style="text-align:justify !important;">Eum ad dolor et. Autem aut fugiat debitis voluptatem consequuntur sit. Et veritatis id.</p> -->
           </div>
         </div>
         <div class="col-lg-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="400">
           <div class="box"> <img src="<?= base_url() ?>assets/img/djs_2.png" class="img-fluid" alt="">
             <h3>Ship Equipment Supply & Repairing</h3>
-            <!-- <p>Repudiandae amet nihil natus in distinctio suscipit id. Doloremque ducimus ea sit non.</p> -->
+            <!-- <p style="text-align:justify !important;">Repudiandae amet nihil natus in distinctio suscipit id. Doloremque ducimus ea sit non.</p> -->
           </div>
         </div>
       </div>
@@ -110,7 +110,7 @@
             <div class="count-box"> <i class="bi bi-emoji-smile"></i>
               <div> <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1"
                   class="purecounter"></span>
-                <p>Happy Clients</p>
+                <p style="text-align:justify !important;">Happy Clients</p>
               </div>
             </div>
           </div>
@@ -118,7 +118,7 @@
             <div class="count-box"> <i class="bi bi-journal-richtext" style="color: #ee6c20;"></i>
               <div> <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1"
                   class="purecounter"></span>
-                <p>Projects</p>
+                <p style="text-align:justify !important;">Projects</p>
               </div>
             </div>
           </div>
@@ -126,7 +126,7 @@
             <div class="count-box"> <i class="bi bi-headset" style="color: #15be56;"></i>
               <div> <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1"
                   class="purecounter"></span>
-                <p>Hours Of Support</p>
+                <p style="text-align:justify !important;">Hours Of Support</p>
               </div>
             </div>
           </div>
@@ -134,7 +134,7 @@
             <div class="count-box"> <i class="bi bi-people" style="color: #bb0852;"></i>
               <div> <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1"
                   class="purecounter"></span>
-                <p>Hard Workers</p>
+                <p style="text-align:justify !important;">Hard Workers</p>
               </div>
             </div>
           </div>
@@ -145,7 +145,7 @@
     <div class="container" data-aos="fade-up">
       <!-- <header class="section-header">
           <h2>Features</h2>
-          <p>Laboriosam et omnis fuga quis dolor direda fara</p>
+          <p style="text-align:justify !important;">Laboriosam et omnis fuga quis dolor direda fara</p>
         </header> -->
       <!-- <div class="row">
           <div class="col-lg-6"> <img src="<?= base_url() ?>assets/img/features.png" class="img-fluid" alt=""></div>
@@ -194,47 +194,47 @@
             </ul>
             <div class="tab-content">
               <div class="tab-pane fade show active" id="tab1">
-                <p>Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque
+                <p style="text-align:justify !important;">Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque
                   consequatur minima nihil quae aspernatur quo suscipit voluptatem.</p>
                 <div class="d-flex align-items-center mb-2"> <i class="bi bi-check2"></i>
                   <h4>Repudiandae rerum velit modi et officia quasi facilis</h4>
                 </div>
-                <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non
+                <p style="text-align:justify !important;">Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non
                   eveniet magni quaerat nemo et.</p>
                 <div class="d-flex align-items-center mb-2"> <i class="bi bi-check2"></i>
                   <h4>Incidunt non veritatis illum ea ut nisi</h4>
                 </div>
-                <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure
+                <p style="text-align:justify !important;">Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure
                   molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et
                   perferendis.</p>
               </div>
               <div class="tab-pane fade show" id="tab2">
-                <p>Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque
+                <p style="text-align:justify !important;">Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque
                   consequatur minima nihil quae aspernatur quo suscipit voluptatem.</p>
                 <div class="d-flex align-items-center mb-2"> <i class="bi bi-check2"></i>
                   <h4>Repudiandae rerum velit modi et officia quasi facilis</h4>
                 </div>
-                <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non
+                <p style="text-align:justify !important;">Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non
                   eveniet magni quaerat nemo et.</p>
                 <div class="d-flex align-items-center mb-2"> <i class="bi bi-check2"></i>
                   <h4>Incidunt non veritatis illum ea ut nisi</h4>
                 </div>
-                <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure
+                <p style="text-align:justify !important;">Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure
                   molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et
                   perferendis.</p>
               </div>
               <div class="tab-pane fade show" id="tab3">
-                <p>Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque
+                <p style="text-align:justify !important;">Consequuntur inventore voluptates consequatur aut vel et. Eos doloribus expedita. Sapiente atque
                   consequatur minima nihil quae aspernatur quo suscipit voluptatem.</p>
                 <div class="d-flex align-items-center mb-2"> <i class="bi bi-check2"></i>
                   <h4>Repudiandae rerum velit modi et officia quasi facilis</h4>
                 </div>
-                <p>Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non
+                <p style="text-align:justify !important;">Laborum omnis voluptates voluptas qui sit aliquam blanditiis. Sapiente minima commodi dolorum non
                   eveniet magni quaerat nemo et.</p>
                 <div class="d-flex align-items-center mb-2"> <i class="bi bi-check2"></i>
                   <h4>Incidunt non veritatis illum ea ut nisi</h4>
                 </div>
-                <p>Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure
+                <p style="text-align:justify !important;">Non quod totam minus repellendus autem sint velit. Rerum debitis facere soluta tenetur. Iure
                   molestiae assumenda sunt qui inventore eligendi voluptates nisi at. Dolorem quo tempora. Quia et
                   perferendis.</p>
               </div>
@@ -249,11 +249,11 @@
               src="<?= base_url() ?>assets/img/djs_5.png" class="img-fluid p-4" alt=""></div>
           <div class="col-xl-8 d-flex content">
             <div class="row align-self-center gy-4">
-              <p>Aiming to provide the best possible services to its new and existing Clients, we supplies spare parts for all the Principals it represents. In addition, we are able to offer high-quality genuine and OEM products for every type of engine equipment and repairs</p>
+              <p style="text-align:justify !important;">Aiming to provide the best possible services to its new and existing Clients, we supplies spare parts for all the Principals it represents. In addition, we are able to offer high-quality genuine and OEM products for every type of engine equipment and repairs</p>
               <!-- <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500"> <i class="ri-radar-line"></i>
                   <div>
                     <h4>Explicabo consectetur</h4>
-                    <p>Est autem dicta beatae suscipit. Sint veritatis et sit quasi ab aut inventore</p>
+                    <p style="text-align:justify !important;">Est autem dicta beatae suscipit. Sint veritatis et sit quasi ab aut inventore</p>
                   </div>
                 </div> -->
             </div>
@@ -265,10 +265,10 @@
         <div class="row">
           <div class="col-xl-4 d-flex content">
             <div class="row align-self-center gy-4">
-              <p>Motor Tanker capacity 3,700MT carrying Crude Palm Oil from Asike to Bontang,
+              <p style="text-align:justify !important;">Motor Tanker capacity 3,700MT carrying Crude Palm Oil from Asike to Bontang,
             Panjang, Gresik and Surabaya,
             also mobilizations B30 in South of Kalimantan area</p>
-            <p>
+            <p style="text-align:justify !important;">
             We managed 10 (ten) set 300 feet capacity 7,500MT and 1 (one) unit SPB capacity 10,000MT
             supported PT. PLN shipment from Palembang to PLTU Pelabuhan Ratu and shipment from Tarahan to PLTU Teluk Sirih,
             Labuhan Angin and Pangkalan Susu
@@ -276,7 +276,7 @@
               <!-- <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500"> <i class="ri-radar-line"></i>
                   <div>
                     <h4>Explicabo consectetur</h4>
-                    <p>Est autem dicta beatae suscipit. Sint veritatis et sit quasi ab aut inventore</p>
+                    <p style="text-align:justify !important;">Est autem dicta beatae suscipit. Sint veritatis et sit quasi ab aut inventore</p>
                   </div>
                 </div> -->
             </div>
@@ -293,13 +293,13 @@
               src="<?= base_url() ?>assets/img/djs_6.png" class="img-fluid p-4" alt=""></div>
           <div class="col-xl-8 d-flex content">
             <div class="row align-self-center gy-4">
-              <p>We fully responsible for the ship's interest
+              <p style="text-align:justify !important;">We fully responsible for the ship's interest
               when the ship is in port and to carry out any arrangement as required by the shipping lines,
               Ship-Owners and Ship-Masters</p>
               <!-- <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500"> <i class="ri-radar-line"></i>
                   <div>
                     <h4>Explicabo consectetur</h4>
-                    <p>Est autem dicta beatae suscipit. Sint veritatis et sit quasi ab aut inventore</p>
+                    <p style="text-align:justify !important;">Est autem dicta beatae suscipit. Sint veritatis et sit quasi ab aut inventore</p>
                   </div>
                 </div> -->
             </div>
@@ -312,13 +312,13 @@
       <div class="container" data-aos="fade-up">
         <header class="section-header">
           <h2>Services</h2>
-          <p>Veritatis et dolores facere numquam et praesentium</p>
+          <p style="text-align:justify !important;">Veritatis et dolores facere numquam et praesentium</p>
         </header>
         <div class="row gy-4">
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div class="service-box blue"> <i class="ri-discuss-line icon"></i>
               <h3>Nesciunt Mete</h3>
-              <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis
+              <p style="text-align:justify !important;">Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis
                 tempore et consequatur.</p> <a href="#" class="read-more"><span>Read More</span> <i
                   class="bi bi-arrow-right"></i></a>
             </div>
@@ -326,7 +326,7 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
             <div class="service-box orange"> <i class="ri-discuss-line icon"></i>
               <h3>Eosle Commodi</h3>
-              <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut
+              <p style="text-align:justify !important;">Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut
                 nesciunt dolorem.</p> <a href="#" class="read-more"><span>Read More</span> <i
                   class="bi bi-arrow-right"></i></a>
             </div>
@@ -334,7 +334,7 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
             <div class="service-box green"> <i class="ri-discuss-line icon"></i>
               <h3>Ledo Markt</h3>
-              <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci
+              <p style="text-align:justify !important;">Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci
                 eos earum corrupti.</p> <a href="#" class="read-more"><span>Read More</span> <i
                   class="bi bi-arrow-right"></i></a>
             </div>
@@ -342,7 +342,7 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
             <div class="service-box red"> <i class="ri-discuss-line icon"></i>
               <h3>Asperiores Commodi</h3>
-              <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident
+              <p style="text-align:justify !important;">Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident
                 adipisci neque.</p> <a href="#" class="read-more"><span>Read More</span> <i
                   class="bi bi-arrow-right"></i></a>
             </div>
@@ -350,7 +350,7 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
             <div class="service-box purple"> <i class="ri-discuss-line icon"></i>
               <h3>Velit Doloremque.</h3>
-              <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi at autem
+              <p style="text-align:justify !important;">Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi at autem
                 alias eius labore.</p> <a href="#" class="read-more"><span>Read More</span> <i
                   class="bi bi-arrow-right"></i></a>
             </div>
@@ -358,7 +358,7 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="700">
             <div class="service-box pink"> <i class="ri-discuss-line icon"></i>
               <h3>Dolori Architecto</h3>
-              <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti
+              <p style="text-align:justify !important;">Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti
                 recusandae ducimus enim.</p> <a href="#" class="read-more"><span>Read More</span> <i
                   class="bi bi-arrow-right"></i></a>
             </div>
@@ -370,7 +370,7 @@
       <div class="container" data-aos="fade-up">
         <header class="section-header">
           <h2>Pricing</h2>
-          <p>Check our Pricing</p>
+          <p style="text-align:justify !important;">Check our Pricing</p>
         </header>
         <div class="row gy-4" data-aos="fade-left">
           <div class="col-lg-3 col-md-6" data-aos="zoom-in" data-aos-delay="100">
@@ -436,7 +436,7 @@
       <div class="container" data-aos="fade-up">
         <header class="section-header">
           <h2>F.A.Q</h2>
-          <p>Frequently Asked Questions</p>
+          <p style="text-align:justify !important;">Frequently Asked Questions</p>
         </header>
         <div class="row">
           <div class="col-lg-6">
@@ -519,7 +519,7 @@
       <div class="container" data-aos="fade-up">
         <header class="section-header">
           <h2>Portfolio</h2>
-          <p>Check our latest work</p>
+          <p style="text-align:justify !important;">Check our latest work</p>
         </header>
         <div class="row" data-aos="fade-up" data-aos-delay="100">
           <div class="col-lg-12 d-flex justify-content-center">
@@ -536,7 +536,7 @@
             <div class="portfolio-wrap"> <img src="<?= base_url() ?>assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>App 1</h4>
-                <p>App</p>
+                <p style="text-align:justify !important;">App</p>
                 <div class="portfolio-links"> <a href="<?= base_url() ?>assets/img/portfolio/portfolio-1.jpg"
                     data-gallery="portfolioGallery" class="portfokio-lightbox" title="App 1"><i
                       class="bi bi-plus"></i></a> <a href="portfolio-details.html" title="More Details"><i
@@ -548,7 +548,7 @@
             <div class="portfolio-wrap"> <img src="<?= base_url() ?>assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Web 3</h4>
-                <p>Web</p>
+                <p style="text-align:justify !important;">Web</p>
                 <div class="portfolio-links"> <a href="<?= base_url() ?>assets/img/portfolio/portfolio-2.jpg"
                     data-gallery="portfolioGallery" class="portfokio-lightbox" title="Web 3"><i
                       class="bi bi-plus"></i></a> <a href="portfolio-details.html" title="More Details"><i
@@ -560,7 +560,7 @@
             <div class="portfolio-wrap"> <img src="<?= base_url() ?>assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>App 2</h4>
-                <p>App</p>
+                <p style="text-align:justify !important;">App</p>
                 <div class="portfolio-links"> <a href="<?= base_url() ?>assets/img/portfolio/portfolio-3.jpg"
                     data-gallery="portfolioGallery" class="portfokio-lightbox" title="App 2"><i
                       class="bi bi-plus"></i></a> <a href="portfolio-details.html" title="More Details"><i
@@ -572,7 +572,7 @@
             <div class="portfolio-wrap"> <img src="<?= base_url() ?>assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Card 2</h4>
-                <p>Card</p>
+                <p style="text-align:justify !important;">Card</p>
                 <div class="portfolio-links"> <a href="<?= base_url() ?>assets/img/portfolio/portfolio-4.jpg"
                     data-gallery="portfolioGallery" class="portfokio-lightbox" title="Card 2"><i
                       class="bi bi-plus"></i></a> <a href="portfolio-details.html" title="More Details"><i
@@ -584,7 +584,7 @@
             <div class="portfolio-wrap"> <img src="<?= base_url() ?>assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Web 2</h4>
-                <p>Web</p>
+                <p style="text-align:justify !important;">Web</p>
                 <div class="portfolio-links"> <a href="<?= base_url() ?>assets/img/portfolio/portfolio-5.jpg"
                     data-gallery="portfolioGallery" class="portfokio-lightbox" title="Web 2"><i
                       class="bi bi-plus"></i></a> <a href="portfolio-details.html" title="More Details"><i
@@ -596,7 +596,7 @@
             <div class="portfolio-wrap"> <img src="<?= base_url() ?>assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>App 3</h4>
-                <p>App</p>
+                <p style="text-align:justify !important;">App</p>
                 <div class="portfolio-links"> <a href="<?= base_url() ?>assets/img/portfolio/portfolio-6.jpg"
                     data-gallery="portfolioGallery" class="portfokio-lightbox" title="App 3"><i
                       class="bi bi-plus"></i></a> <a href="portfolio-details.html" title="More Details"><i
@@ -608,7 +608,7 @@
             <div class="portfolio-wrap"> <img src="<?= base_url() ?>assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Card 1</h4>
-                <p>Card</p>
+                <p style="text-align:justify !important;">Card</p>
                 <div class="portfolio-links"> <a href="<?= base_url() ?>assets/img/portfolio/portfolio-7.jpg"
                     data-gallery="portfolioGallery" class="portfokio-lightbox" title="Card 1"><i
                       class="bi bi-plus"></i></a> <a href="portfolio-details.html" title="More Details"><i
@@ -620,7 +620,7 @@
             <div class="portfolio-wrap"> <img src="<?= base_url() ?>assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Card 3</h4>
-                <p>Card</p>
+                <p style="text-align:justify !important;">Card</p>
                 <div class="portfolio-links"> <a href="<?= base_url() ?>assets/img/portfolio/portfolio-8.jpg"
                     data-gallery="portfolioGallery" class="portfokio-lightbox" title="Card 3"><i
                       class="bi bi-plus"></i></a> <a href="portfolio-details.html" title="More Details"><i
@@ -632,7 +632,7 @@
             <div class="portfolio-wrap"> <img src="<?= base_url() ?>assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Web 3</h4>
-                <p>Web</p>
+                <p style="text-align:justify !important;">Web</p>
                 <div class="portfolio-links"> <a href="<?= base_url() ?>assets/img/portfolio/portfolio-9.jpg"
                     data-gallery="portfolioGallery" class="portfokio-lightbox" title="Web 3"><i
                       class="bi bi-plus"></i></a> <a href="portfolio-details.html" title="More Details"><i
@@ -647,7 +647,7 @@
       <div class="container" data-aos="fade-up">
         <header class="section-header">
           <h2>Testimonials</h2>
-          <p>What they are saying about us</p>
+          <p style="text-align:justify !important;">What they are saying about us</p>
         </header>
         <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="200">
           <div class="swiper-wrapper">
@@ -655,7 +655,7 @@
               <div class="testimonial-item">
                 <div class="stars"> <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
                     class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
-                <p> Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus.
+                <p style="text-align:justify !important;"> Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus.
                   Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.</p>
                 <div class="profile mt-auto"> <img src="<?= base_url() ?>assets/img/testimonials/testimonials-1.jpg"
                     class="testimonial-img" alt="">
@@ -668,7 +668,7 @@
               <div class="testimonial-item">
                 <div class="stars"> <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
                     class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
-                <p> Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis
+                <p style="text-align:justify !important;"> Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis
                   quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.</p>
                 <div class="profile mt-auto"> <img src="<?= base_url() ?>assets/img/testimonials/testimonials-2.jpg"
                     class="testimonial-img" alt="">
@@ -681,7 +681,7 @@
               <div class="testimonial-item">
                 <div class="stars"> <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
                     class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
-                <p> Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim
+                <p style="text-align:justify !important;"> Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim
                   tempor labore quem eram duis noster aute amet eram fore quis sint minim.</p>
                 <div class="profile mt-auto"> <img src="<?= base_url() ?>assets/img/testimonials/testimonials-3.jpg"
                     class="testimonial-img" alt="">
@@ -694,7 +694,7 @@
               <div class="testimonial-item">
                 <div class="stars"> <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
                     class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
-                <p> Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit
+                <p style="text-align:justify !important;"> Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit
                   minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.</p>
                 <div class="profile mt-auto"> <img src="<?= base_url() ?>assets/img/testimonials/testimonials-4.jpg"
                     class="testimonial-img" alt="">
@@ -707,7 +707,7 @@
               <div class="testimonial-item">
                 <div class="stars"> <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
                     class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></div>
-                <p> Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim
+                <p style="text-align:justify !important;"> Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim
                   culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
                 </p>
                 <div class="profile mt-auto"> <img src="<?= base_url() ?>assets/img/testimonials/testimonials-5.jpg"
@@ -726,7 +726,7 @@
       <div class="container" data-aos="fade-up">
         <header class="section-header">
           <h2>Team</h2>
-          <p>Our hard working team</p>
+          <p style="text-align:justify !important;">Our hard working team</p>
         </header>
         <div class="row gy-4">
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
@@ -738,7 +738,7 @@
               </div>
               <div class="member-info">
                 <h4>Walter White</h4> <span>Chief Executive Officer</span>
-                <p>Velit aut quia fugit et et. Dolorum ea voluptate vel tempore tenetur ipsa quae aut. Ipsum
+                <p style="text-align:justify !important;">Velit aut quia fugit et et. Dolorum ea voluptate vel tempore tenetur ipsa quae aut. Ipsum
                   exercitationem iure minima enim corporis et voluptate.</p>
               </div>
             </div>
@@ -752,7 +752,7 @@
               </div>
               <div class="member-info">
                 <h4>Sarah Jhonson</h4> <span>Product Manager</span>
-                <p>Quo esse repellendus quia id. Est eum et accusantium pariatur fugit nihil minima suscipit corporis.
+                <p style="text-align:justify !important;">Quo esse repellendus quia id. Est eum et accusantium pariatur fugit nihil minima suscipit corporis.
                   Voluptate sed quas reiciendis animi neque sapiente.</p>
               </div>
             </div>
@@ -766,7 +766,7 @@
               </div>
               <div class="member-info">
                 <h4>William Anderson</h4> <span>CTO</span>
-                <p>Vero omnis enim consequatur. Voluptas consectetur unde qui molestiae deserunt. Voluptates enim aut
+                <p style="text-align:justify !important;">Vero omnis enim consequatur. Voluptas consectetur unde qui molestiae deserunt. Voluptates enim aut
                   architecto porro aspernatur molestiae modi.</p>
               </div>
             </div>
@@ -780,7 +780,7 @@
               </div>
               <div class="member-info">
                 <h4>Amanda Jepson</h4> <span>Accountant</span>
-                <p>Rerum voluptate non adipisci animi distinctio et deserunt amet voluptas. Quia aut aliquid doloremque
+                <p style="text-align:justify !important;">Rerum voluptate non adipisci animi distinctio et deserunt amet voluptas. Quia aut aliquid doloremque
                   ut possimus ipsum officia.</p>
               </div>
             </div>
@@ -833,7 +833,7 @@
       <div class="container" data-aos="fade-up">
         <header class="section-header">
           <h2>Blog</h2>
-          <p>Recent posts form our Blog</p>
+          <p style="text-align:justify !important;">Recent posts form our Blog</p>
         </header>
         <div class="row">
           <div class="col-lg-4">
@@ -869,7 +869,7 @@
     <div class="container" data-aos="fade-up">
       <header class="section-header">
         <h2>Contact</h2>
-        <p>Contact Us</p>
+        <p style="text-align:justify !important;">Contact Us</p>
       </header>
       <div class="row gy-4">
         <div class="col-lg-6">
@@ -878,13 +878,13 @@
             <div class="col-md-6">
               <div class="info-box"> <i class="bi bi-telephone"></i>
                 <h3>Call Us</h3>
-                <p>Telp 0811-9008-1222</p>
+                <p style="text-align:justify !important;">Telp 0811-9008-1222</p>
               </div>
             </div>
             <div class="col-md-6">
               <div class="info-box"> <i class="bi bi-envelope"></i>
                 <h3>Email Us</h3>
-                <p>marketing@djsshipping.co.id</p>
+                <p style="text-align:justify !important;">marketing@djsshipping.co.id</p>
               </div>
             </div>
             <div class="col-md-12">
@@ -892,7 +892,7 @@
                 <!-- <h3>Address</h3> -->
                 <h3>Head Office</h3>
 
-                <p>
+                <p style="text-align:justify !important;">
                   Wisma Baja 1<sup>st</sup> Floor,
                   Jl. Jend. Gatot Subroto Kav. 54, Jakarta Selatan 12950
                   </b>
@@ -902,7 +902,7 @@
             <!-- <div class="col-md-6">
               <div class="info-box"> <i class="bi bi-clock"></i>
                 <h3>Open Hours</h3>
-                <p>Monday - Friday<br>9:00AM - 05:00PM</p>
+                <p style="text-align:justify !important;">Monday - Friday<br>9:00AM - 05:00PM</p>
               </div>
             </div> -->
           </div>
@@ -910,14 +910,14 @@
             <div class="col-md-6">
               <div class="info-box"> <i class="bi bi-geo-alt"></i>
                 <h3>Site Office</h3>
-                <p>One Place Building 2<sup>nd</sup> floor <br>Jl. Jend. Sudirman No.&nbsp; 1 Gresik, <br>East of java, Indonesia</b>
+                <p style="text-align:justify !important;">One Place Building 2<sup>nd</sup> floor <br>Jl. Jend. Sudirman No.&nbsp; 1 Gresik, <br>East of java, Indonesia</b>
                 </p>
               </div>
             </div>
             <div class="col-md-6">
               <div class="info-box"> <i class="bi bi-geo-alt"></i>
                 <h3>Site Office</h3>
-                <p>Gedong Cilegon Damai Blok C. 39  No. 8-A, Katimbang, Cibeber, Cilegon,<br> Banten
+                <p style="text-align:justify !important;">Gedong Cilegon Damai Blok C. 39  No. 8-A, Katimbang, Cibeber, Cilegon,<br> Banten
                 </p>
               </div>
             </div>
@@ -926,14 +926,14 @@
             <div class="col-md-6">
               <div class="info-box"> <i class="bi bi-geo-alt"></i>
                 <h3>Site Office</h3>
-                <p>JL. Residen Abdul Rozak Komplek Grand Pondok Indah No. 06 Kalidoni <br> Palembang, South of sumatera</b>
+                <p style="text-align:justify !important;">JL. Residen Abdul Rozak Komplek Grand Pondok Indah No. 06 Kalidoni <br> Palembang, South of sumatera</b>
                 </p>
               </div>
             </div>
             <div class="col-md-6">
               <div class="info-box"> <i class="bi bi-geo-alt"></i>
                 <h3>Site Office</h3>
-                <p>Pantai Ratu indah, Jl. Lumba-lumba, Blok-B No. 18, Pelabuhanratu,<br> Sukabumi, West Java, Indonesia
+                <p style="text-align:justify !important;">Pantai Ratu indah, Jl. Lumba-lumba, Blok-B No. 18, Pelabuhanratu,<br> Sukabumi, West Java, Indonesia
                 </p>
               </div>
             </div>
