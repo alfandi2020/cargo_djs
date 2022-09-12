@@ -1,66 +1,5 @@
 <main id="main">
-    <!-- <section id="about2" class="about">
-    <div class="container" data-aos="fade-up">
-      <div class="row gx-0">
-
-        <div class="col-lg-6" data-aos="zoom-out" data-aos-delay="200"> <img
-            src="<?= base_url() ?>assets/img/visimisi2.jpg" class="img-fluid" alt="">
-        </div>
-        <div class="col-lg-6 d-flex justify-content-center" data-aos="fade-up" data-aos-delay="200">
-          <div class="content">
-            <h3>Sekilas Tentang MIT-E</h3>
-            <p> PT Mitra Elang Niaga Indonesia (MIT-E) didirikan pada tahun 2019 di Jakarta. MIT-E merupakan perusahaan
-              jasa pengiriman barang (Freight Forwarder), yang didukung dengan fasilitas Warehousing dan juga Regulated
-              Agent (RA).
-              <br><br>
-              MIT-E telah memiliki sistem sendiri sehingga lebih avaliable dan reliable untuk menyediakan pelayanan
-              freight forwarding seperti penjemputan, penyimpanan, pendistribusian sampai dengan pengantaran barang
-              langsung kepenerima. </p>\
-          </div>
-        </div>
-      </div>
-    </div>
-  </section> -->
-
-
-    <!-- <section id="counts" class="counts">
-      <div class="container" data-aos="fade-up">
-        <div class="row gy-4">
-          <div class="col-lg-3 col-md-6">
-            <div class="count-box"> <i class="bi bi-emoji-smile"></i>
-              <div> <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1"
-                  class="purecounter"></span>
-                <p>Happy Clients</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6">
-            <div class="count-box"> <i class="bi bi-journal-richtext" style="color: #ee6c20;"></i>
-              <div> <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1"
-                  class="purecounter"></span>
-                <p>Projects</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6">
-            <div class="count-box"> <i class="bi bi-headset" style="color: #15be56;"></i>
-              <div> <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1"
-                  class="purecounter"></span>
-                <p>Hours Of Support</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6">
-            <div class="count-box"> <i class="bi bi-people" style="color: #bb0852;"></i>
-              <div> <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1"
-                  class="purecounter"></span>
-                <p>Hard Workers</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section> -->
+   
     <section id="services2" class="features">
         <div class="container" data-aos="fade-up">
             <div class="row feature-icons" data-aos="fade-up">
@@ -70,9 +9,10 @@
                             src="<?= base_url() ?>assets/img/djs_5.png" class="img-fluid p-4" alt=""></div>
                     <div class="col-xl-8 d-flex content">
                         <div class="row align-self-center gy-4">
-                            <p>Aiming to provide the best possible services to its new and existing Clients, we supplies
-                                spare parts for all the Principals it represents. In addition, we are able to offer
-                                high-quality genuine and OEM products for every type of engine equipment and repairs</p>
+                            <p style="text-align:justify !important;">We are PT. Dwi Jaya Samudra (DJS) an Indonesia Shipping Company was founded since May 2012. The founders of the company recognized the enomous growth potential in the Indonesia Shipping market and positioned themself to take full advantage the given oppurtinity.</p>
+
+                            <p style="text-align:justify !important;">The company started its general cargo service and coal tranporter service with rented vessel. As the business continues to expand, the company strives to improve its performance, enhance its competency, augment its vessel units and expand service coverage to become a the best company in Shipping industry with variety vessel.</p>
+                            <p style="text-align:justify !important;">One subsidiaries now support the company, namely: PT. Adi Jaya Nusantara Perkasa with engages in Marine Engineering service for Ship repair, providing equipment and maintenance aspecialy port of Power-plant. And for financial supporting subsidiaries with our goup namely: PT. Harnoko Investama Indonesia. Our group company above with domicilied at Gresik, east Java, with office address at One Place Building 11. Jend. Sudirman No.1 Gresik East Java</p>
                             <!-- <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500"> <i class="ri-radar-line"></i>
                   <div>
                     <h4>Explicabo consectetur</h4>
@@ -83,54 +23,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row feature-icons" data-aos="fade-up">
-                <h3>Ship Chartering and Managing</h3>
-                <div class="row">
-                    <div class="col-xl-4 d-flex content">
-                        <div class="row align-self-center gy-4">
-                            <p>Motor Tanker capacity 3,700MT carrying Crude Palm Oil from Asike to Bontang,
-                                Panjang, Gresik and Surabaya,
-                                Also mobilizations B30 in South of Kalimantan area</p>
-                            <p>
-                                We Managed 10 (ten) set 300 feet capacity 7,500MT and 1 (one) unit SPB capacity 10,000MT
-                                Supported PT. PLN shipment from Palembang to PLTU Pelabuhan Ratu and shipment from
-                                Tarahan to PLTU Teluk Sirih,
-                                Labuhan Angin and Pangkalan Susu
-                            </p>
-                            <!-- <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500"> <i class="ri-radar-line"></i>
-                  <div>
-                    <h4>Explicabo consectetur</h4>
-                    <p>Est autem dicta beatae suscipit. Sint veritatis et sit quasi ab aut inventore</p>
-                  </div>
-                </div> -->
-                        </div>
-                    </div>
-                    <div class="col-xl-8 text-center" data-aos="fade-right" data-aos-delay="100"> <img
-                            src="<?= base_url() ?>assets/img/djs1.png" class="img-fluid p-4" alt="">
-                    </div>
-                </div>
-            </div>
-            <div class="row feature-icons" data-aos="fade-up">
-                <h3>Ship Equipment Supply & Repairing</h3>
-                <div class="row">
-                    <div class="col-xl-4 text-center" data-aos="fade-right" data-aos-delay="100"> <img
-                            src="<?= base_url() ?>assets/img/djs_6.png" class="img-fluid p-4" alt=""></div>
-                    <div class="col-xl-8 d-flex content">
-                        <div class="row align-self-center gy-4">
-                            <p>We fully responsible for the ship's interest
-                                when the ship is in port and to carry out any arrangement as required by the shipping
-                                lines,
-                                Ship-Owners and Ship-Masters</p>
-                            <!-- <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500"> <i class="ri-radar-line"></i>
-                  <div>
-                    <h4>Explicabo consectetur</h4>
-                    <p>Est autem dicta beatae suscipit. Sint veritatis et sit quasi ab aut inventore</p>
-                  </div>
-                </div> -->
-                        </div>
-                    </div>
-                </div>
-            </div>
+       
         </div>
     </section>
     <!-- <section id="services" class="services">
