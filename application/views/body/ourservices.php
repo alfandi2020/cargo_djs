@@ -329,7 +329,7 @@
                 <h4 class="text-center">With a reliable team-work we can provide high quality ship-management</h4>
                 <div class="row">
                     <div class="col-xl-10 text-center" data-aos="fade-right" data-aos-delay="100"> <img
-                            src="<?= base_url() ?>assets/img/our_djs3.png" class="img-fluid p-4" alt="">
+                            src="<?= base_url() ?>assets/img/our_djs-4.png" class="img-fluid p-4" alt="">
                     </div>
                     <div class="col-xl-2 d-flex flex-row-reverse">
                         <div class="row align-self-center gy-4">
