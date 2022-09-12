@@ -226,7 +226,7 @@
                                 Also mobilizations B30 in South of Kalimantan area</p>
                             <p>
                                 We Managed 10 (ten) set 300 feet capacity 7,500MT and 1 (one) unit SPB capacity 10,000MT
-                                Supported PT. PLN Shipment from Palembang to PLTU Pelabuhan Ratu and Shipment from
+                                Supported PT. PLN shipment from Palembang to PLTU Pelabuhan Ratu and shipment from
                                 Tarahan to PLTU Teluk Sirih,
                                 Labuhan Angin and Pangkalan Susu
                             </p>

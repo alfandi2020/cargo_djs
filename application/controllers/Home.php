@@ -29,4 +29,13 @@ class Home extends CI_Controller {
 		$this->load->view('body/ourservices');
 		$this->load->view('temp/footer');
 	}
+	function about()
+	{
+		$data = [
+			"title" => "About"
+		];
+		$this->load->view('temp/header',$data);
+		$this->load->view('body/about');
+		$this->load->view('temp/footer');
+	}
 }
