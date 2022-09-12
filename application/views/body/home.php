@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-lg-6 d-flex flex-column justify-content-center">
         <h1 style="font-size: 25px;" data-aos="fade-up">PT.Dwi Jaya Samudra</h1>
-        <h2 data-aos="fade-up" data-aos-delay="400">"The One", one focus in Shipping industry integrated and related all Shipping Bussiness
+        <h2 data-aos="fade-up" data-aos-delay="400">Innovative for Customer Satisfaction
         </h2>
         <div data-aos="fade-up" data-aos-delay="600">
           <div class="text-center text-lg-start"> 

@@ -1,6 +1,6 @@
 <br>
 <main id="main">
-  <!-- <section id="about2" class="about">
+    <!-- <section id="about2" class="about">
     <div class="container" data-aos="fade-up">
       <div class="row gx-0">
 
@@ -23,41 +23,41 @@
     </div>
   </section> -->
 
-  <section id="services" class="values">
-    <div class="container" data-aos="fade-up">
-      <header class="section-header">
-        <!-- <h2>Our Services</h2> -->
-        <p>Our Services</p>
-      </header>
-      <div class="row">
-        <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
-          <div class="box"> <img src="<?= base_url() ?>assets/img/djs_1.png" class="img-fluid" alt="">
-            <h3>Ship Chartering and Managing</h3>
-            <!-- <p>Eum ad dolor et. Autem aut fugiat debitis voluptatem consequuntur sit. Et veritatis id.</p> -->
-          </div>
+    <section id="services" class="values">
+        <div class="container" data-aos="fade-up">
+            <header class="section-header">
+                <!-- <h2>Our Services</h2> -->
+                <p>Our Services</p>
+            </header>
+            <div class="row">
+                <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
+                    <div class="box"> <img src="<?= base_url() ?>assets/img/djs_1.png" class="img-fluid" alt="">
+                        <h3>Ship Chartering and Managing</h3>
+                        <!-- <p>Eum ad dolor et. Autem aut fugiat debitis voluptatem consequuntur sit. Et veritatis id.</p> -->
+                    </div>
+                </div>
+                <div class="col-lg-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="400">
+                    <div class="box"> <img src="<?= base_url() ?>assets/img/djs_2.png" class="img-fluid" alt="">
+                        <h3>Ship Equipment Supply & Repairing</h3>
+                        <!-- <p>Repudiandae amet nihil natus in distinctio suscipit id. Doloremque ducimus ea sit non.</p> -->
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="600">
+                    <div class="box"> <img src="<?= base_url() ?>assets/img/djs_3.png" class="img-fluid" alt="">
+                        <h3>Shipping Agency</h3>
+                    </div>
+                </div>
+                <div class="col-lg-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="600">
+                    <div class="box"> <img src="<?= base_url() ?>assets/img/djs_4.png" class="img-fluid" alt="">
+                        <h3>Others Assist Tug and Harbour Tug</h3>
+                    </div>
+                </div>
+            </div>
         </div>
-        <div class="col-lg-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="400">
-          <div class="box"> <img src="<?= base_url() ?>assets/img/djs_2.png" class="img-fluid" alt="">
-            <h3>Ship Equipment Supply & Repairing</h3>
-            <!-- <p>Repudiandae amet nihil natus in distinctio suscipit id. Doloremque ducimus ea sit non.</p> -->
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="600">
-          <div class="box"> <img src="<?= base_url() ?>assets/img/djs_3.png" class="img-fluid" alt="">
-            <h3>Shipping Agency</h3>
-          </div>
-        </div>
-        <div class="col-lg-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="600">
-          <div class="box"> <img src="<?= base_url() ?>assets/img/djs_4.png" class="img-fluid" alt="">
-            <h3>Others Assist Tug and Harbour Tug</h3>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- <section id="counts" class="counts">
+    </section>
+    <!-- <section id="counts" class="counts">
       <div class="container" data-aos="fade-up">
         <div class="row gy-4">
           <div class="col-lg-3 col-md-6">
@@ -95,13 +95,13 @@
         </div>
       </div>
     </section> -->
-  <section id="services2" class="features">
-    <div class="container" data-aos="fade-up">
-      <!-- <header class="section-header">
+    <section id="services2" class="features">
+        <div class="container" data-aos="fade-up">
+            <!-- <header class="section-header">
           <h2>Features</h2>
           <p>Laboriosam et omnis fuga quis dolor direda fara</p>
         </header> -->
-      <!-- <div class="row">
+            <!-- <div class="row">
           <div class="col-lg-6"> <img src="<?= base_url() ?>assets/img/features.png" class="img-fluid" alt=""></div>
           <div class="col-lg-6 mt-5 mt-lg-0 d-flex">
             <div class="row align-self-center gy-4">
@@ -196,112 +196,159 @@
           </div>
           <div class="col-lg-6"> <img src="<?= base_url() ?>assets/img/features-2.png" class="img-fluid" alt=""></div>
         </div> -->
-      <div class="row feature-icons" data-aos="fade-up">
-        <h3>Ship Equipment Supply & Repairing</h3>
-        <div class="row">
-          <div class="col-xl-4 text-center" data-aos="fade-right" data-aos-delay="100"> <img
-              src="<?= base_url() ?>assets/img/djs_5.png" class="img-fluid p-4" alt=""></div>
-          <div class="col-xl-8 d-flex content">
-            <div class="row align-self-center gy-4">
-              <p>Aiming to provide the best possible services to its new and existing Clients, we supplies spare parts for all the Principals it represents. In addition, we are able to offer high-quality genuine and OEM products for every type of engine equipment and repairs</p>
-              <!-- <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500"> <i class="ri-radar-line"></i>
+            <div class="row feature-icons" data-aos="fade-up">
+                <h3>Ship Equipment Supply & Repairing</h3>
+                <div class="row">
+                    <div class="col-xl-4 text-center" data-aos="fade-right" data-aos-delay="100"> <img
+                            src="<?= base_url() ?>assets/img/djs_5.png" class="img-fluid p-4" alt=""></div>
+                    <div class="col-xl-8 d-flex content">
+                        <div class="row align-self-center gy-4">
+                            <p>Aiming to provide the best possible services to its new and existing Clients, we supplies
+                                spare parts for all the Principals it represents. In addition, we are able to offer
+                                high-quality genuine and OEM products for every type of engine equipment and repairs</p>
+                            <!-- <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500"> <i class="ri-radar-line"></i>
                   <div>
                     <h4>Explicabo consectetur</h4>
                     <p>Est autem dicta beatae suscipit. Sint veritatis et sit quasi ab aut inventore</p>
                   </div>
                 </div> -->
+                        </div>
+                    </div>
+                </div>
             </div>
-          </div>
-        </div>
-      </div>
-      <div class="row feature-icons" data-aos="fade-up">
-        <h3>Ship Chartering and Managing</h3>
-        <div class="row">
-          <div class="col-xl-4 d-flex content">
-            <div class="row align-self-center gy-4">
-              <p>Motor Tanker capacity 3,700MT carrying Crude Palm Oil from Asike to Bontang,
-            Panjang, Gresik and Surabaya,
-            Also mobilizations B30 in South of Kalimantan area</p>
-            <p>
-            We Managed 10 (ten) set 300 feet capacity 7,500MT and 1 (one) unit SPB capacity 10,000MT
-            Supported PT. PLN Shipment from Palembang to PLTU Pelabuhan Ratu and Shipment from Tarahan to PLTU Teluk Sirih,
-            Labuhan Angin and Pangkalan Susu
-            </p>
-              <!-- <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500"> <i class="ri-radar-line"></i>
+            <div class="row feature-icons" data-aos="fade-up">
+                <h3>Ship Chartering and Managing</h3>
+                <div class="row">
+                    <div class="col-xl-4 d-flex content">
+                        <div class="row align-self-center gy-4">
+                            <p>Motor Tanker capacity 3,700MT carrying Crude Palm Oil from Asike to Bontang,
+                                Panjang, Gresik and Surabaya,
+                                Also mobilizations B30 in South of Kalimantan area</p>
+                            <p>
+                                We Managed 10 (ten) set 300 feet capacity 7,500MT and 1 (one) unit SPB capacity 10,000MT
+                                Supported PT. PLN Shipment from Palembang to PLTU Pelabuhan Ratu and Shipment from
+                                Tarahan to PLTU Teluk Sirih,
+                                Labuhan Angin and Pangkalan Susu
+                            </p>
+                            <!-- <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500"> <i class="ri-radar-line"></i>
                   <div>
                     <h4>Explicabo consectetur</h4>
                     <p>Est autem dicta beatae suscipit. Sint veritatis et sit quasi ab aut inventore</p>
                   </div>
                 </div> -->
+                        </div>
+                    </div>
+                    <div class="col-xl-8 text-center" data-aos="fade-right" data-aos-delay="100"> <img
+                            src="<?= base_url() ?>assets/img/djs1.png" class="img-fluid p-4" alt="">
+                    </div>
+                </div>
             </div>
-          </div>
-          <div class="col-xl-8 text-center" data-aos="fade-right" data-aos-delay="100"> <img
-              src="<?= base_url() ?>assets/img/djs1.png" class="img-fluid p-4" alt="">
-          </div>
-        </div>
-      </div>
-      <div class="row feature-icons" data-aos="fade-up">
-        <h3>Ship Equipment Supply & Repairing</h3>
-        <div class="row">
-          <div class="col-xl-4 text-center" data-aos="fade-right" data-aos-delay="100"> <img
-              src="<?= base_url() ?>assets/img/djs_6.png" class="img-fluid p-4" alt=""></div>
-          <div class="col-xl-8 d-flex content">
-            <div class="row align-self-center gy-4">
-              <p>We fully responsible for the ship's interest
-                when the ship is in port and to carry out any arrangement as required by the shipping lines,
-                Ship-Owners and Ship-Masters</p>
-                        <!-- <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500"> <i class="ri-radar-line"></i>
+            <div class="row feature-icons" data-aos="fade-up">
+                <h3>Ship Equipment Supply & Repairing</h3>
+                <div class="row">
+                    <div class="col-xl-4 text-center" data-aos="fade-right" data-aos-delay="100"> <img
+                            src="<?= base_url() ?>assets/img/djs_6.png" class="img-fluid p-4" alt=""></div>
+                    <div class="col-xl-8 d-flex content">
+                        <div class="row align-self-center gy-4">
+                            <p>We fully responsible for the ship's interest
+                                when the ship is in port and to carry out any arrangement as required by the shipping
+                                lines,
+                                Ship-Owners and Ship-Masters</p>
+                            <!-- <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500"> <i class="ri-radar-line"></i>
                   <div>
                     <h4>Explicabo consectetur</h4>
                     <p>Est autem dicta beatae suscipit. Sint veritatis et sit quasi ab aut inventore</p>
                   </div>
                 </div> -->
+                        </div>
+                    </div>
+                </div>
             </div>
-          </div>
-        </div>
-      </div>
-      <div class="row feature-icons" data-aos="fade-up">
-        <h3>Ship Owner</h3>
-        <div class="row">
-          <div class="col-xl-8 text-center" data-aos="fade-right" data-aos-delay="100"> <img
-              src="<?= base_url() ?>assets/img/our_djs1.png" class="img-fluid p-4" alt=""></div>
-          <div class="col-xl-4 d-flex content">
-            <div class="row align-self-center gy-4">
-                <ul>
-                    <li>MV. Juwita-1</li>
-                    <li>General Cargo 2000 DWT</li>
-                    <li>LOA : 69.40 M</li>
-                    <li>LBP : 64.00 M</li>
-                    <li>Depth : 06.10 M</li>
-                </ul>
+            <div class="row feature-icons" data-aos="fade-up">
+                <h3>Ship Owner</h3>
+                <div class="row">
+                    <div class="col-xl-8 text-center" data-aos="fade-right" data-aos-delay="100"> <img
+                            src="<?= base_url() ?>assets/img/our_djs1.png" class="img-fluid p-4" alt=""></div>
+                    <div class="col-xl-4 d-flex content">
+                        <div class="row align-self-center gy-4">
+                            <ul>
+                                <li>MV. Juwita-1</li>
+                                <li>General Cargo 2000 DWT</li>
+                                <li>LOA : 69.40 M</li>
+                                <li>LBP : 64.00 M</li>
+                                <li>Depth : 06.10 M</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
             </div>
-          </div>
-        </div>
-      </div>
-      <div class="row feature-icons" data-aos="fade-up">
-        <h3>Ship Operator</h3>
-        <div class="row">
-        <div class="col-xl-2 d-flex flex-row-reverse">
-            <div class="row align-self-center gy-4">
-                <ul>
-                    <li>Tug & Barge</li>
-                    <li>Tanker</li>
-                    <li>Bulk Carrier</li>
-                    <li>Passenger</li>
-                    <li>LCT</li>
-                    <li>Container</li>
-                    <li>And Others Ship</li>
-                </ul>
+            <div class="row feature-icons" data-aos="fade-up">
+                <h3>Ship Operator</h3>
+                <div class="row">
+                    <div class="col-xl-2 d-flex flex-row-reverse">
+                        <div class="row align-self-center gy-4">
+                            <ul>
+                                <li>Tug & Barge</li>
+                                <li>Tanker</li>
+                                <li>Bulk Carrier</li>
+                                <li>Passenger</li>
+                                <li>LCT</li>
+                                <li>Container</li>
+                                <li>And Others Ship</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xl-10 text-center" data-aos="fade-right" data-aos-delay="100"> <img
+                            src="<?= base_url() ?>assets/img/our_djs2.png" class="img-fluid p-4" alt=""></div>
+
+                </div>
             </div>
-          </div>
-          <div class="col-xl-10 text-center" data-aos="fade-right" data-aos-delay="100"> <img
-              src="<?= base_url() ?>assets/img/our_djs2.png" class="img-fluid p-4" alt=""></div>
-          
+            <div class="row feature-icons" data-aos="fade-up">
+                <h3>Ship Agent</h3>
+                <div class="row">
+                    <div class="col-xl-10 text-center" data-aos="fade-right" data-aos-delay="100"> <img
+                            src="<?= base_url() ?>assets/img/our_djs3.png" class="img-fluid p-4" alt="">
+                    </div>
+                    <div class="col-xl-2 d-flex flex-row-reverse">
+                        <div class="row align-self-center gy-4">
+                            <p>General Agent Local Agent Owner Protecting Agent Renewal Ship Documents Customs Clearance
+                                Port Line-up Fuel-oil bunker Loading Supervision Discharging Supervision Transhipment
+                                Supervision Crew change</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row ml-5">
+                <div class="col-xl-10">
+                We have several branch-offices and local-agent in several strategic areas in Indonesia will provide the smoothness of all shipping projects to be carried out. Good relaionship with Port-authority and Sea-com will expedite all processes of port-formality and Ship-Licences
+
+                </div>
+            </div>
+            <div class="row feature-icons" data-aos="fade-up">
+                <h3>Ship Management</h3>
+                <h4 class="text-center">With a reliable team-work we can provide high quality ship-management</h4>
+                <div class="row">
+                    <div class="col-xl-10 text-center" data-aos="fade-right" data-aos-delay="100"> <img
+                            src="<?= base_url() ?>assets/img/our_djs3.png" class="img-fluid p-4" alt="">
+                    </div>
+                    <div class="col-xl-2 d-flex flex-row-reverse">
+                        <div class="row align-self-center gy-4">
+                           <ul>
+                               <li>Ship Operating </li>
+                               <li>Ship Maintenance</li>
+                               <li>Ship License</li>
+                               <li>Ship Crew</li>
+                               <li>Ship Chartering</li>
+                               <li>Ship Classification</li>
+                               <li>Ship Insurance </li>
+                           </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
-      </div>
-    </div>
-  </section>
-  <!-- <section id="services" class="services">
+    </section>
+    <!-- <section id="services" class="services">
       <div class="container" data-aos="fade-up">
         <header class="section-header">
           <h2>Services</h2>
@@ -359,7 +406,7 @@
         </div>
       </div>
     </section> -->
-  <!-- <section id="pricing" class="pricing">
+    <!-- <section id="pricing" class="pricing">
       <div class="container" data-aos="fade-up">
         <header class="section-header">
           <h2>Pricing</h2>
@@ -425,7 +472,7 @@
         </div>
       </div>
     </section> -->
-  <!-- <section id="faq" class="faq">
+    <!-- <section id="faq" class="faq">
       <div class="container" data-aos="fade-up">
         <header class="section-header">
           <h2>F.A.Q</h2>
@@ -508,7 +555,7 @@
         </div>
       </div>
     </section> -->
-  <!-- <section id="portfolio" class="portfolio">
+    <!-- <section id="portfolio" class="portfolio">
       <div class="container" data-aos="fade-up">
         <header class="section-header">
           <h2>Portfolio</h2>
@@ -636,7 +683,7 @@
         </div>
       </div>
     </section> -->
-  <!-- <section id="testimonials" class="testimonials">
+    <!-- <section id="testimonials" class="testimonials">
       <div class="container" data-aos="fade-up">
         <header class="section-header">
           <h2>Testimonials</h2>
@@ -715,7 +762,7 @@
         </div>
       </div>
     </section> -->
-  <!-- <section id="team" class="team">
+    <!-- <section id="team" class="team">
       <div class="container" data-aos="fade-up">
         <header class="section-header">
           <h2>Team</h2>
@@ -801,7 +848,7 @@
         </div>
       </div>
     </section> -->
-  <!-- <section id="clients2" class="clients">
+    <!-- <section id="clients2" class="clients">
     <div class="container" data-aos="fade-up">
       <header class="section-header">
         <h2>Our Clients</h2>
@@ -822,7 +869,7 @@
     </div>
   </section> -->
 
-  <!-- <section id="recent-blog-posts" class="recent-blog-posts">
+    <!-- <section id="recent-blog-posts" class="recent-blog-posts">
       <div class="container" data-aos="fade-up">
         <header class="section-header">
           <h2>Blog</h2>
