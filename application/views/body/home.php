@@ -926,14 +926,14 @@
             <div class="col-md-6">
               <div class="info-box"> <i class="bi bi-geo-alt"></i>
                 <h3>Site Office</h3>
-                <p style="text-align:justify !important;">JL. Residen Abdul Rozak Komplek Grand Pondok Indah No. 06 Kalidoni <br> Palembang, South of sumatera</b>
+                <p style="text-align:justify !important;">Jl. Residen Abdul Rozak Komplek Grand Pondok Indah No. 06 Kalidoni <br> Palembang, South Sumatra</b>
                 </p>
               </div>
             </div>
             <div class="col-md-6">
               <div class="info-box"> <i class="bi bi-geo-alt"></i>
                 <h3>Site Office</h3>
-                <p style="text-align:justify !important;">Pantai Ratu indah, Jl. Lumba-lumba, Blok-B No. 18, Pelabuhanratu,<br> Sukabumi, West Java, Indonesia
+                <p style="text-align:justify !important;">Pantai Ratu indah, Jl. Lumba-lumba, Blok B No. 18, Pelabuhan Ratu,<br> Sukabumi, West Java, Indonesia
                 </p>
               </div>
             </div>
