@@ -1,40 +1,5 @@
-<section id="hero" class="hero d-flex align-items-center">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-6 d-flex flex-column justify-content-center">
-        <h1 style="font-size: 25px;" data-aos="fade-up">PT.Dwi Jaya Samudra</h1>
-        <h2 data-aos="fade-up" data-aos-delay="400">The line between disorder and order lies in logistics
-        </h2>
-        <div data-aos="fade-up" data-aos-delay="600">
-          <div class="text-center text-lg-start"> 
-            <a href="#about"
-              class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
-              <span>Contact Us</span> <i class="bi bi-arrow-right"></i> </a>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-6 hero-img" data-aos="zoom-out" data-aos-delay="200"> <img
-          src="<?= base_url() ?>assets/img/djs3.png" style="width:120%" alt=""></div>
-    </div>
-  </div>
-</section>
+<br>
 <main id="main">
-  <section id="about" class="about">
-    <div class="container" data-aos="fade-up">
-      <div class="row gx-0">
-        <div class="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
-          <div class="content">
-            <h3>Vision</h3>
-            <p>To be one on the leading shipping company in Indonesia, with quality management system and qualified personnels in the field marine engineering and shipping business. Always innovative, competitive, effectiveness, dicipline, effort, loyalty, reliable, and efficient to our customers.</p>
-            <h3>Mision</h3>
-            <p> Always keeping up with the dynamic development of national shipping industry, the company continues to develop its service type and coverage toward Ship Management, Ship Agency, Stevedoring, Ship Brokering and Marine Engineering, as a form integated services.</p>
-          </div>
-        </div>
-        <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200"> <img
-            src="<?= base_url() ?>assets/img/djs_7.png" class="img-fluid" alt=""></div>
-      </div>
-    </div>
-  </section>
   <!-- <section id="about2" class="about">
     <div class="container" data-aos="fade-up">
       <div class="row gx-0">
@@ -88,17 +53,6 @@
           <div class="box"> <img src="<?= base_url() ?>assets/img/djs_4.png" class="img-fluid" alt="">
             <h3>Others Assist Tug and Harbour Tug</h3>
           </div>
-        </div>
-      </div>
-      <div class="row mt-5 d-flex justify-content-center"> 
-        <div class="col-xl-3">
-        <div data-aos="fade-up" data-aos-delay="600">
-          <div class="text-center text-lg-start"> 
-            <a href="<?= base_url('our') ?>"
-              class="btn-get-more scrollto d-inline-flex align-items-center justify-content-center align-self-center">
-              <span>More Our Services </span> &nbsp;<i class="bi bi-arrow-right"></i> </a>
-          </div>
-        </div>
         </div>
       </div>
     </div>
@@ -294,9 +248,9 @@
           <div class="col-xl-8 d-flex content">
             <div class="row align-self-center gy-4">
               <p>We fully responsible for the ship's interest
-              when the ship is in port and to carry out any arrangement as required by the shipping lines,
-              Ship-Owners and Ship-Masters</p>
-              <!-- <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500"> <i class="ri-radar-line"></i>
+                when the ship is in port and to carry out any arrangement as required by the shipping lines,
+                Ship-Owners and Ship-Masters</p>
+                        <!-- <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500"> <i class="ri-radar-line"></i>
                   <div>
                     <h4>Explicabo consectetur</h4>
                     <p>Est autem dicta beatae suscipit. Sint veritatis et sit quasi ab aut inventore</p>
@@ -304,6 +258,45 @@
                 </div> -->
             </div>
           </div>
+        </div>
+      </div>
+      <div class="row feature-icons" data-aos="fade-up">
+        <h3>Ship Owner</h3>
+        <div class="row">
+          <div class="col-xl-8 text-center" data-aos="fade-right" data-aos-delay="100"> <img
+              src="<?= base_url() ?>assets/img/our_djs1.png" class="img-fluid p-4" alt=""></div>
+          <div class="col-xl-4 d-flex content">
+            <div class="row align-self-center gy-4">
+                <ul>
+                    <li>MV. Juwita-1</li>
+                    <li>General Cargo 2000 DWT</li>
+                    <li>LOA : 69.40 M</li>
+                    <li>LBP : 64.00 M</li>
+                    <li>Depth : 06.10 M</li>
+                </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row feature-icons" data-aos="fade-up">
+        <h3>Ship Operator</h3>
+        <div class="row">
+        <div class="col-xl-2 d-flex flex-row-reverse">
+            <div class="row align-self-center gy-4">
+                <ul>
+                    <li>Tug & Barge</li>
+                    <li>Tanker</li>
+                    <li>Bulk Carrier</li>
+                    <li>Passenger</li>
+                    <li>LCT</li>
+                    <li>Container</li>
+                    <li>And Others Ship</li>
+                </ul>
+            </div>
+          </div>
+          <div class="col-xl-10 text-center" data-aos="fade-right" data-aos-delay="100"> <img
+              src="<?= base_url() ?>assets/img/our_djs2.png" class="img-fluid p-4" alt=""></div>
+          
         </div>
       </div>
     </div>
@@ -865,100 +858,4 @@
         </div>
       </div>
     </section> -->
-  <section id="contact" class="contact">
-    <div class="container" data-aos="fade-up">
-      <header class="section-header">
-        <h2>Contact</h2>
-        <p>Contact Us</p>
-      </header>
-      <div class="row gy-4">
-        <div class="col-lg-6">
-          <div class="row gy-4">
-           
-            <div class="col-md-6">
-              <div class="info-box"> <i class="bi bi-telephone"></i>
-                <h3>Call Us</h3>
-                <p>Telp 0811-9008-1222</p>
-              </div>
-            </div>
-            <div class="col-md-6">
-              <div class="info-box"> <i class="bi bi-envelope"></i>
-                <h3>Email Us</h3>
-                <p>marketing@djsshipping.co.id</p>
-              </div>
-            </div>
-            <div class="col-md-12">
-              <div class="info-box"> <i class="bi bi-geo-alt"></i>
-                <h3>Address</h3>
-                <p>Head Office:
-                  Wisma Baja 1 Floor,
-                  Jl.Jend.Gatot Subroto Kav.54,
-                  Jakarta Selatan 12950
-                  </b>
-                </p>
-              </div>
-            </div>
-            <!-- <div class="col-md-6">
-              <div class="info-box"> <i class="bi bi-clock"></i>
-                <h3>Open Hours</h3>
-                <p>Monday - Friday<br>9:00AM - 05:00PM</p>
-              </div>
-            </div> -->
-          </div>
-          <div class="row gy-4 mt-2">
-            <div class="col-md-6">
-              <div class="info-box"> <i class="bi bi-geo-alt"></i>
-                <h3>Site Office</h3>
-                <p>One Place Building 2nd floor <br>Jl.Jend. Sudirman No.1 Gresik,<br>East of java, Indonesia</b>
-                </p>
-              </div>
-            </div>
-            <div class="col-md-6">
-              <div class="info-box"> <i class="bi bi-geo-alt"></i>
-                <h3>Site Office</h3>
-                <p>Gedong Cilegon Damai <br> Blok C.39 No.8-A, Katimbang, <br>Cibeber,Cilegon,Banten
-                </p>
-              </div>
-            </div>
-          </div>
-          <div class="row gy-4 mt-2">
-            <div class="col-md-6">
-              <div class="info-box"> <i class="bi bi-geo-alt"></i>
-                <h3>Address</h3>
-                <p>JL.Residen Abdul Rozak <br>Komplek Grand Pondok Indah No.06 <br>Kalidoni Palembang,South of sumatera</b>
-                </p>
-              </div>
-            </div>
-            <div class="col-md-6">
-              <div class="info-box"> <i class="bi bi-geo-alt"></i>
-                <h3>Address</h3>
-                <p>Pantai Ratu indah, Jl.Lumba-lumba, <br>Blok-B No.18, Pelabuhanratu, Sukabumi,West Java,Indonesia
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-6">
-          <form action="forms/contact.php" method="post" class="php-email-form">
-            <div class="row gy-4">
-              <div class="col-md-6"> <input type="text" name="name" class="form-control" placeholder="Your Name"
-                  required></div>
-              <div class="col-md-6 "> <input type="email" class="form-control" name="email" placeholder="Your Email"
-                  required></div>
-              <div class="col-md-12"> <input type="text" class="form-control" name="subject" placeholder="Subject"
-                  required></div>
-              <div class="col-md-12"><textarea class="form-control" name="message" rows="6" placeholder="Message"
-                  required></textarea></div>
-              <div class="col-md-12 text-center">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div> <button type="submit">Send
-                  Message</button>
-              </div>
-            </div>
-          </form>
-        </div>
-      </div>
-    </div>
-  </section>
 </main>

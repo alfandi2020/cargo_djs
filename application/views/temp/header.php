@@ -101,8 +101,8 @@ function range_excel($start = 'A', $end = 'ZZ'){
         class="logo d-flex align-items-center"> <img src="<?= base_url() ?>assets/img/djsss.png" alt=""> </a>
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-          <li><a class="nav-link scrollto" href="#services">Our Services</a></li>
+          <li><a class="nav-link scrollto" href="<?= base_url('home') ?>#hero">Home</a></li>
+          <li><a class="nav-link scrollto" href="<?= base_url('our') ?>#services">Our Services</a></li>
           <li><a class="nav-link scrollto" href="#services2">Services</a></li>
           <!-- <li><a class="nav-link scrollto" href="#portfolio">Portfolio</a></li> -->
           <!-- <li><a class="nav-link scrollto" href="#team">Team</a></li>
