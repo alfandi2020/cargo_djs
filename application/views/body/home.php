@@ -933,7 +933,7 @@
             <div class="col-md-6">
               <div class="info-box"> <i class="bi bi-geo-alt"></i>
                 <h3>Site Office</h3>
-                <p>Pantai Ratu indah, Jl. Lumba-lumba, <br>Blok-B No. 18, Pelabuhanratu, Sukabumi, West Java, Indonesia
+                <p>Pantai Ratu indah, Jl. Lumba-lumba, Blok-B No. 18, Pelabuhanratu,<br> Sukabumi, West Java, Indonesia
                 </p>
               </div>
             </div>
