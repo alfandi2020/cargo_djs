@@ -910,7 +910,7 @@
             <div class="col-md-6">
               <div class="info-box"> <i class="bi bi-geo-alt"></i>
                 <h3>Site Office</h3>
-                <p>One Place Building 2<sup>nd</sup> floor <br>Jl. Jend. Sudirman No. 1 Gresik, <br>East of java, Indonesia</b>
+                <p>One Place Building 2<sup>nd</sup> floor <br>Jl. Jend. Sudirman No.&nbsp; 1 Gresik, <br>East of java, Indonesia</b>
                 </p>
               </div>
             </div>
