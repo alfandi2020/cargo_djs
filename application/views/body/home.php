@@ -911,14 +911,14 @@
             <div class="col-md-6">
               <div class="info-box"> <i class="bi bi-geo-alt"></i>
                 <h3>Site Office</h3>
-                <p>One Place Building 2nd floor <br>Jl.Jend. Sudirman No.1 Gresik,<br>East of java, Indonesia</b>
+                <p>One Place Building 2nd floor <br>Jl.Jend. Sudirman No.1 Gresik, <br>East of java, Indonesia</b>
                 </p>
               </div>
             </div>
             <div class="col-md-6">
               <div class="info-box"> <i class="bi bi-geo-alt"></i>
                 <h3>Site Office</h3>
-                <p>Gedong Cilegon Damai <br> Blok C.39 No.8-A, Katimbang, <br>Cibeber,Cilegon,Banten
+                <p>Gedong Cilegon Damai <br> Blok C.39 No.8-A, Katimbang, <br>Cibeber, Cilegon, Banten
                 </p>
               </div>
             </div>
@@ -927,14 +927,14 @@
             <div class="col-md-6">
               <div class="info-box"> <i class="bi bi-geo-alt"></i>
                 <h3>Site Office</h3>
-                <p>JL.Residen Abdul Rozak <br>Komplek Grand Pondok Indah No.06 <br>Kalidoni Palembang,South of sumatera</b>
+                <p>JL.Residen Abdul Rozak <br>Komplek Grand Pondok Indah No.06 <br>Kalidoni Palembang, South of sumatera</b>
                 </p>
               </div>
             </div>
             <div class="col-md-6">
               <div class="info-box"> <i class="bi bi-geo-alt"></i>
                 <h3>Site Office</h3>
-                <p>Pantai Ratu indah, Jl.Lumba-lumba, <br>Blok-B No.18, Pelabuhanratu, Sukabumi,West Java,Indonesia
+                <p>Pantai Ratu indah, Jl.Lumba-lumba, <br>Blok-B No.18, Pelabuhanratu, Sukabumi, West Java, Indonesia
                 </p>
               </div>
             </div>
