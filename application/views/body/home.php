@@ -894,7 +894,7 @@
 
                 <p>
                   Wisma Baja 1<sup>st</sup> Floor,
-                  Jl. Jend. Gatot Subroto Kav.54, Jakarta Selatan 12950
+                  Jl. Jend. Gatot Subroto Kav. 54, Jakarta Selatan 12950
                   </b>
                 </p>
               </div>
