@@ -103,7 +103,7 @@ function range_excel($start = 'A', $end = 'ZZ'){
         <ul>
           <li><a class="nav-link scrollto" href="<?= base_url('home') ?>#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="<?= base_url('our') ?>#services">Our Services</a></li>
-          <li><a class="nav-link scrollto" href="#services2">Services</a></li>
+          <!-- <li><a class="nav-link scrollto" href="#services2">Services</a></li> -->
           <!-- <li><a class="nav-link scrollto" href="#portfolio">Portfolio</a></li> -->
           <!-- <li><a class="nav-link scrollto" href="#team">Team</a></li>
           <li><a href="blog.html">Blog</a></li> -->

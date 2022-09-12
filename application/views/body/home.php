@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-lg-6 d-flex flex-column justify-content-center">
         <h1 style="font-size: 25px;" data-aos="fade-up">PT.Dwi Jaya Samudra</h1>
-        <h2 data-aos="fade-up" data-aos-delay="400">The line between disorder and order lies in logistics
+        <h2 data-aos="fade-up" data-aos-delay="400">"The One", one focus in Shipping industry integrated and related all Shipping Bussiness
         </h2>
         <div data-aos="fade-up" data-aos-delay="600">
           <div class="text-center text-lg-start"> 
@@ -27,7 +27,7 @@
             <h3>Vision</h3>
             <p>To be one on the leading shipping company in Indonesia, with quality management system and qualified personnels in the field marine engineering and shipping business. Always innovative, competitive, effectiveness, dicipline, effort, loyalty, reliable, and efficient to our customers.</p>
             <h3>Mision</h3>
-            <p> Always keeping up with the dynamic development of national shipping industry, the company continues to develop its service type and coverage toward Ship Management, Ship Agency, Stevedoring, Ship Brokering and Marine Engineering, as a form integated services.</p>
+            <p> Always keeping up with the dynamic development of national shipping industry, the company continues to develop its service type and coverage toward Ship Management, Ship Agency, Stevedoring, Ship Brokering and Marine Engineering, as a form integrated services.</p>
           </div>
         </div>
         <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200"> <img
@@ -267,10 +267,10 @@
             <div class="row align-self-center gy-4">
               <p>Motor Tanker capacity 3,700MT carrying Crude Palm Oil from Asike to Bontang,
             Panjang, Gresik and Surabaya,
-            Also mobilizations B30 in South of Kalimantan area</p>
+            also mobilizations B30 in South of Kalimantan area</p>
             <p>
-            We Managed 10 (ten) set 300 feet capacity 7,500MT and 1 (one) unit SPB capacity 10,000MT
-            Supported PT. PLN Shipment from Palembang to PLTU Pelabuhan Ratu and Shipment from Tarahan to PLTU Teluk Sirih,
+            We managed 10 (ten) set 300 feet capacity 7,500MT and 1 (one) unit SPB capacity 10,000MT
+            supported PT. PLN Shipment from Palembang to PLTU Pelabuhan Ratu and Shipment from Tarahan to PLTU Teluk Sirih,
             Labuhan Angin and Pangkalan Susu
             </p>
               <!-- <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500"> <i class="ri-radar-line"></i>
@@ -889,9 +889,9 @@
             </div>
             <div class="col-md-12">
               <div class="info-box"> <i class="bi bi-geo-alt"></i>
-                <h3>Address</h3>
+                <!-- <h3>Address</h3> -->
                 <p>Head Office:
-                  Wisma Baja 1 Floor,
+                  Wisma Baja 1st Floor,
                   Jl.Jend.Gatot Subroto Kav.54,
                   Jakarta Selatan 12950
                   </b>
@@ -924,14 +924,14 @@
           <div class="row gy-4 mt-2">
             <div class="col-md-6">
               <div class="info-box"> <i class="bi bi-geo-alt"></i>
-                <h3>Address</h3>
+                <h3>Site Office</h3>
                 <p>JL.Residen Abdul Rozak <br>Komplek Grand Pondok Indah No.06 <br>Kalidoni Palembang,South of sumatera</b>
                 </p>
               </div>
             </div>
             <div class="col-md-6">
               <div class="info-box"> <i class="bi bi-geo-alt"></i>
-                <h3>Address</h3>
+                <h3>Site Office</h3>
                 <p>Pantai Ratu indah, Jl.Lumba-lumba, <br>Blok-B No.18, Pelabuhanratu, Sukabumi,West Java,Indonesia
                 </p>
               </div>
