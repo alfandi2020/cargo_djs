@@ -1,7 +1,7 @@
 <section id="hero" class="hero d-flex align-items-center">
   <div class="container">
     <div class="row">
-      <div class="col-lg-6 d-flex flex-column justify-content-center">
+      <div class="col-lg-5 d-flex flex-column justify-content-center">
         <h1 style="font-size: 25px;" data-aos="fade-up">PT.Dwi Jaya Samudra</h1>
         <h2 data-aos="fade-up" data-aos-delay="400">Innovative for Customer Satisfaction
         </h2>
@@ -14,7 +14,7 @@
         </div>
       </div>
       <div class="col-lg-6 hero-img" data-aos="zoom-out" data-aos-delay="200"> <img
-          src="<?= base_url() ?>assets/img/djs3.png" style="width:120%" alt=""></div>
+          src="<?= base_url() ?>assets/img/home_x.png" style="width:150%" alt=""></div>
     </div>
   </div>
 </section>
