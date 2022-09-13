@@ -1,7 +1,7 @@
 <section id="hero" class="hero d-flex align-items-center">
-  <!-- <div class="container"> -->
+  <div class="container">
     <div class="row">
-      <!-- <div class="col-lg-5 d-flex flex-column justify-content-center">
+      <div class="col-lg-5 d-flex flex-column justify-content-center">
         <h1 style="font-size: 25px;" data-aos="fade-up">PT.Dwi Jaya Samudra</h1>
         <h2 data-aos="fade-up" data-aos-delay="400">Innovative for Customer Satisfaction
         </h2>
@@ -15,20 +15,9 @@
       </div>
       <div class="col-lg-6 hero-img" data-aos="zoom-out" data-aos-delay="200"> <img
           src="<?= base_url() ?>assets/img/home_x.png" style="width:150%" alt="">
-      </div> -->
-      <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <img style="width:100%" src="<?= base_url() ?>assets/img/home_x.png" alt="img">
-            <div class="carousel-caption d-none d-md-block">
-              <h5>awawd</h5>
-              <p>awdawa</p>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
-  <!-- </div> -->
+  </div>
 </section>
 <main id="main">
   <section id="about" class="about">
@@ -37,14 +26,9 @@
         <div class="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
           <div class="content">
             <h3>Vision</h3>
-            <p style="text-align:justify !important;">To be one on the leading shipping company in Indonesia, with
-              quality management system and qualified personnels in the field marine engineering and shipping business.
-              Always innovative, competitive, effectiveness, dicipline, effort, loyalty, reliable, and efficient to our
-              customers.</p>
+            <p style="text-align:justify !important;">To be one on the leading shipping company in Indonesia, with quality management system and qualified personnels in the field marine engineering and shipping business. Always innovative, competitive, effectiveness, dicipline, effort, loyalty, reliable, and efficient to our customers.</p>
             <h3>Mision</h3>
-            <p style="text-align:justify !important;"> Always keeping up with the dynamic development of national
-              shipping industry, the company continues to develop its service type and coverage toward Ship Management,
-              Ship Agency, Stevedoring, Ship Brokering and Marine Engineering, as a form integrated services.</p>
+            <p style="text-align:justify !important;"> Always keeping up with the dynamic development of national shipping industry, the company continues to develop its service type and coverage toward Ship Management, Ship Agency, Stevedoring, Ship Brokering and Marine Engineering, as a form integrated services.</p>
           </div>
         </div>
         <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200"> <img
@@ -107,15 +91,15 @@
           </div>
         </div>
       </div>
-      <div class="row mt-5 d-flex justify-content-center">
+      <div class="row mt-5 d-flex justify-content-center"> 
         <div class="col-xl-3">
-          <div data-aos="fade-up" data-aos-delay="600">
-            <div class="text-center text-lg-start">
-              <a href="<?= base_url('our') ?>"
-                class="btn-get-more scrollto d-inline-flex align-items-center justify-content-center align-self-center">
-                <span>More Our Services </span> &nbsp;<i class="bi bi-arrow-right"></i> </a>
-            </div>
+        <div data-aos="fade-up" data-aos-delay="600">
+          <div class="text-center text-lg-start"> 
+            <a href="<?= base_url('our') ?>"
+              class="btn-get-more scrollto d-inline-flex align-items-center justify-content-center align-self-center">
+              <span>More Our Services </span> &nbsp;<i class="bi bi-arrow-right"></i> </a>
           </div>
+        </div>
         </div>
       </div>
     </div>
@@ -266,9 +250,7 @@
               src="<?= base_url() ?>assets/img/djs_5.png" class="img-fluid p-4" alt=""></div>
           <div class="col-xl-8 d-flex content">
             <div class="row align-self-center gy-4">
-              <p style="text-align:justify !important;">Aiming to provide the best possible services to its new and
-                existing Clients, we supplies spare parts for all the Principals it represents. In addition, we are able
-                to offer high-quality genuine and OEM products for every type of engine equipment and repairs</p>
+              <p style="text-align:justify !important;">Aiming to provide the best possible services to its new and existing Clients, we supplies spare parts for all the Principals it represents. In addition, we are able to offer high-quality genuine and OEM products for every type of engine equipment and repairs</p>
               <!-- <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500"> <i class="ri-radar-line"></i>
                   <div>
                     <h4>Explicabo consectetur</h4>
@@ -284,16 +266,14 @@
         <div class="row">
           <div class="col-xl-4 d-flex content">
             <div class="row align-self-center gy-4">
-              <p style="text-align:justify !important;">Motor Tanker capacity 3,700MT carrying Crude Palm Oil from Asike
-                to Bontang,
-                Panjang, Gresik and Surabaya,
-                also mobilizations B30 in South of Kalimantan area</p>
-              <p style="text-align:justify !important;">
-                We managed 10 (ten) set 300 feet capacity 7,500MT and 1 (one) unit SPB capacity 10,000MT
-                supported PT. PLN shipment from Palembang to PLTU Pelabuhan Ratu and shipment from Tarahan to PLTU Teluk
-                Sirih,
-                Labuhan Angin and Pangkalan Susu
-              </p>
+              <p style="text-align:justify !important;">Motor Tanker capacity 3,700MT carrying Crude Palm Oil from Asike to Bontang,
+            Panjang, Gresik and Surabaya,
+            also mobilizations B30 in South of Kalimantan area</p>
+            <p style="text-align:justify !important;">
+            We managed 10 (ten) set 300 feet capacity 7,500MT and 1 (one) unit SPB capacity 10,000MT
+            supported PT. PLN shipment from Palembang to PLTU Pelabuhan Ratu and shipment from Tarahan to PLTU Teluk Sirih,
+            Labuhan Angin and Pangkalan Susu
+            </p>
               <!-- <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500"> <i class="ri-radar-line"></i>
                   <div>
                     <h4>Explicabo consectetur</h4>
@@ -315,8 +295,8 @@
           <div class="col-xl-8 d-flex content">
             <div class="row align-self-center gy-4">
               <p style="text-align:justify !important;">We fully responsible for the ship's interest
-                when the ship is in port and to carry out any arrangement as required by the shipping lines,
-                Ship-Owners and Ship-Masters</p>
+              when the ship is in port and to carry out any arrangement as required by the shipping lines,
+              Ship-Owners and Ship-Masters</p>
               <!-- <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500"> <i class="ri-radar-line"></i>
                   <div>
                     <h4>Explicabo consectetur</h4>
@@ -809,7 +789,7 @@
         </div>
       </div>
     </section> -->
-  <!-- <section id="clients" class="clients">
+    <!-- <section id="clients" class="clients">
       <div class="container" data-aos="fade-up">
         <header class="section-header">
           <h2>Our Partner</h2>
@@ -895,7 +875,7 @@
       <div class="row gy-4">
         <div class="col-lg-6">
           <div class="row gy-4">
-
+           
             <div class="col-md-6">
               <div class="info-box"> <i class="bi bi-telephone"></i>
                 <h3>Call Us</h3>
@@ -931,16 +911,14 @@
             <div class="col-md-6">
               <div class="info-box"> <i class="bi bi-geo-alt"></i>
                 <h3>Site Office</h3>
-                <p style="text-align:justify !important;">One Place Building 2<sup>nd</sup> floor <br>Jl. Jend. Sudirman
-                  No.&nbsp; 1 Gresik, <br>East of java, Indonesia</b>
+                <p style="text-align:justify !important;">One Place Building 2<sup>nd</sup> floor <br>Jl. Jend. Sudirman No.&nbsp; 1 Gresik, <br>East of java, Indonesia</b>
                 </p>
               </div>
             </div>
             <div class="col-md-6">
               <div class="info-box"> <i class="bi bi-geo-alt"></i>
                 <h3>Site Office</h3>
-                <p style="text-align:justify !important;">Gedong Cilegon Damai Blok C. 39 No. 8-A, Katimbang, Cibeber,
-                  Cilegon,<br> Banten
+                <p style="text-align:justify !important;">Gedong Cilegon Damai Blok C. 39  No. 8-A, Katimbang, Cibeber, Cilegon,<br> Banten
                 </p>
               </div>
             </div>
@@ -949,16 +927,14 @@
             <div class="col-md-6">
               <div class="info-box"> <i class="bi bi-geo-alt"></i>
                 <h3>Site Office</h3>
-                <p style="text-align:justify !important;">Jl. Residen Abdul Rozak Komplek Grand Pondok Indah No. 06
-                  Kalidoni <br> Palembang, South Sumatra</b>
+                <p style="text-align:justify !important;">Jl. Residen Abdul Rozak Komplek Grand Pondok Indah No. 06 Kalidoni <br> Palembang, South Sumatra</b>
                 </p>
               </div>
             </div>
             <div class="col-md-6">
               <div class="info-box"> <i class="bi bi-geo-alt"></i>
                 <h3>Site Office</h3>
-                <p style="text-align:justify !important;">Pantai Ratu indah, Jl. Lumba-lumba, Blok B No. 18, Pelabuhan
-                  Ratu,<br> Sukabumi, West Java, Indonesia
+                <p style="text-align:justify !important;">Pantai Ratu indah, Jl. Lumba-lumba, Blok B No. 18, Pelabuhan Ratu,<br> Sukabumi, West Java, Indonesia
                 </p>
               </div>
             </div>
