@@ -38,7 +38,9 @@
                 </div>
                 <div class="col-lg-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="400">
                     <div class="box"> <img src="<?= base_url() ?>assets/img/djs_2.png" class="img-fluid" alt="">
-                        <h3>Ship Equipment Supply & Repairing</h3>
+                    <br>
+            <br> 
+                      <h3>Ship Equipment Supply & Repairing</h3>
                         <!-- <p style="text-align:justify !important;">Repudiandae amet nihil natus in distinctio suscipit id. Doloremque ducimus ea sit non.</p> -->
                     </div>
                 </div>
