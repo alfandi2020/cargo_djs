@@ -239,7 +239,7 @@
                         </div>
                     </div>
                     <div class="col-xl-8 text-center" data-aos="fade-right" data-aos-delay="100"> <img
-                            src="<?= base_url() ?>assets/img/djs3.png" class="img-fluid p-4" alt="">
+                            src="<?= base_url() ?>assets/img/our_33.png" class="img-fluid p-4" alt="">
                     </div>
                 </div>
             </div>
