@@ -9,7 +9,7 @@
                             src="<?= base_url() ?>assets/img/djs_5.png" class="img-fluid p-4" alt=""></div>
                     <div class="col-xl-8 d-flex content">
                         <div class="row align-self-center gy-4">
-                            <p style="text-align:justify !important;">We are PT. Dwi Jaya Samudra (DJS) an Indonesia shipping company was founded since May 2012. The founders of the company recognized the enomous growth potential in the Indonesia shipping market and positioned themself to take full advantage the given oppurtinity.</p>
+                            <p style="text-align:justify !important;">We are  <span style="color: red;">PT. Dwi Jaya Samudra (DJS)</span> an Indonesia shipping company was founded since May 2012. The founders of the company recognized the enomous growth potential in the Indonesia shipping market and positioned themself to take full advantage the given oppurtinity.</p>
 
                             <p style="text-align:justify !important;">The company started its general cargo service and coal tranporter service with rented vessel. As the business continues to expand, the company strives to improve its performance, enhance its competency, augment its vessel units and expand service coverage to become a the best company in shipping industry with variety vessel.</p>
                             <!-- <p style="text-align:justify !important;">One subsidiaries now support the company, namely: PT. Adi Jaya Nusantara Perkasa with engages in Marine Engineering service for Ship repair, providing equipment and maintenance aspecialy port of power-plant.  -->

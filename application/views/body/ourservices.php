@@ -239,7 +239,7 @@
                         </div>
                     </div>
                     <div class="col-xl-8 text-center" data-aos="fade-right" data-aos-delay="100"> <img
-                            src="<?= base_url() ?>assets/img/djs1.png" class="img-fluid p-4" alt="">
+                            src="<?= base_url() ?>assets/img/djs3.png" class="img-fluid p-4" alt="">
                     </div>
                 </div>
             </div>
@@ -264,7 +264,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row feature-icons" data-aos="fade-up">
+            <!-- <div class="row feature-icons" data-aos="fade-up">
                 <h3>Ship Owner</h3>
                 <div class="row">
                     <div class="col-xl-8 text-center" data-aos="fade-right" data-aos-delay="100"> <img
@@ -281,8 +281,8 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="row feature-icons" data-aos="fade-up">
+            </div> -->
+            <!-- <div class="row feature-icons" data-aos="fade-up">
                 <h3>Ship Operator</h3>
                 <div class="row">
                     <div class="col-xl-2 d-flex flex-row-reverse">
@@ -302,8 +302,8 @@
                             src="<?= base_url() ?>assets/img/our_djs2.png" class="img-fluid p-4" alt=""></div>
 
                 </div>
-            </div>
-            <div class="row feature-icons" data-aos="fade-up">
+            </div> -->
+            <!-- <div class="row feature-icons" data-aos="fade-up">
                 <h3>Ship Agent</h3>
                 <div class="row">
                     <div class="col-xl-10 text-center" data-aos="fade-right" data-aos-delay="100"> <img
@@ -317,14 +317,14 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="row ml-5">
+            </div> -->
+            <!-- <div class="row ml-5">
                 <div class="col-xl-10">
                 We have several branch-offices and local-agent in several strategic areas in Indonesia will provide the smoothness of all shipping projects to be carried out. Good relaionship with Port-authority and Sea-com will expedite all processes of port-formality and Ship-Licences
 
                 </div>
-            </div>
-            <div class="row feature-icons" data-aos="fade-up">
+            </div> -->
+            <!-- <div class="row feature-icons" data-aos="fade-up">
                 <h3>Ship Management</h3>
                 <h4 class="text-center">With a reliable team-work we can provide high quality ship-management</h4>
                 <div class="row">
@@ -345,7 +345,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </section>
     <!-- <section id="services" class="services">
